@@ -22,3 +22,12 @@ Tech Mandatory II assignment
 
 6. Understands the basic hardware components of a computer system and the Von Neumann architecture.
 
+Basic hardware components:
+A computer has a CPU (brain), RAM (temporary memory), storage (permanent memory like SSD) and input/output devices (keyboard, monitor).
+Von Neumann architecture:
+Programs and data are stored together in the same memory.
+The CPU fetches instructions from memory one by one, executes them and stores results back.
+This design allows any program to run on the same hardware.
+
+7. Knows about different types of databases and their use cases.
+
