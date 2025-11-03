@@ -62,3 +62,24 @@ Real-time bidding, leaderboards, rate limiting - when milliseconds matter.
 
 
 
+8. Can setup a new MySQL database and connect to it.
+
+<img width="441" height="50" alt="image" src="https://github.com/user-attachments/assets/cb5b0700-9948-4084-931a-1eacc5fc0a5c" />
+
+<img width="789" height="642" alt="image" src="https://github.com/user-attachments/assets/6fe829cb-c663-421b-a2e3-5bb2f9130ed5" />
+
+9. Can create DDL statements to create tables.
+
+<img width="262" height="145" alt="image" src="https://github.com/user-attachments/assets/69d4f0fd-5259-4c22-a773-d24db00b2f98" />
+
+10. Can create DML (SELECT, INSERT) statements.
+
+<img width="361" height="65" alt="image" src="https://github.com/user-attachments/assets/0bd1a963-59e1-4729-b7e6-60ce790a4039" />
+
+11. Can use WHERE clause to filter results.
+
+<img width="306" height="33" alt="image" src="https://github.com/user-attachments/assets/e4e08ed1-1668-4f45-960d-f98cac0e5b55" />
+
+
+
+
