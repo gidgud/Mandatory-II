@@ -81,5 +81,40 @@ Real-time bidding, leaderboards, rate limiting - when milliseconds matter.
 <img width="306" height="33" alt="image" src="https://github.com/user-attachments/assets/e4e08ed1-1668-4f45-960d-f98cac0e5b55" />
 
 
+12. Can define Primary Keys.
+
+
+
+13. Understands how Foreign Keys work.
+
+
+
+14. In SELECT statements, can use (with moderate help):
+
+
+        LIMIT, ORDER BY, GROUP BY
+
+        aggregate functions like COUNT, SUM, AVG, MIN, and MAX
+
+        pattern matching with LIKE and wildcards
+
+        JOIN to combine data from multiple tables
+
+
+
+15. Can create inner, left and right joins after looking up the syntax.
+
+
+
+16. Can create DDL statements to create tables with constraints: PRIMARY KEY, AUTO_INCREMENT, FOREIGN KEY, UNIQUE, NOT NULL.
+
+
+
+17. Can create DML (UPDATE, DELETE) statements.
+
+
+
+18. Can create a pull request.
+
 
 
