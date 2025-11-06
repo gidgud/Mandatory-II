@@ -83,11 +83,11 @@ Real-time bidding, leaderboards, rate limiting - when milliseconds matter.
 
 12. Can define Primary Keys.
 
-
+<img width="262" height="145" alt="image" src="https://github.com/user-attachments/assets/69d4f0fd-5259-4c22-a773-d24db00b2f98" />
 
 13. Understands how Foreign Keys work.
 
-
+Foreign keys are used to reference a table with a primary key, to connect the 2 tables u use join.
 
 14. In SELECT statements, can use (with moderate help):
 
