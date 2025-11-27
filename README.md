@@ -123,25 +123,35 @@ Foreign keys are used to reference a table with a primary key, to connect the 2 
 20. Understands different Git workflows such as GitHub Flow.
 
 Git Workflows & GitHub Actions Reference
-Understands GitHub Flow
 GitHub Flow is a lightweight, branch-based workflow designed for teams and projects with regular deployments.
 Core principles:
 
 Main branch is always deployable - production-ready code only
+
 Feature branches - create descriptive branches from main for new work
+
 Pull Requests - open PR early for discussion and code review
+
 Deploy from branch - test in production-like environment before merging
+
 Merge to main - after approval and passing tests
+
 Delete branch - clean up after merging
 
 Typical workflow steps:
 
 Create branch from main: feature/add-login
+
 Make commits with clear messages
+
 Open Pull Request for review
+
 Discuss and review code changes
+
 Deploy and test (optional)
+
 Merge to main after approval
+
 Delete feature branch
 
 21. Can solve a merge conflict.
